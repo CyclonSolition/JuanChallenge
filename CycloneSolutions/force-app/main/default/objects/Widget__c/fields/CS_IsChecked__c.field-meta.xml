@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>CS_IsChecked__c</fullName>
+    <defaultValue>false</defaultValue>
+    <description>Auxiliary field to check if Value is porperly nested has been evaluated.</description>
+    <externalId>false</externalId>
+    <label>IsChecked</label>
+    <trackTrending>false</trackTrending>
+    <type>Checkbox</type>
+</CustomField>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomApplication xmlns="http://soap.sforce.com/2006/04/metadata">
+    <brand>
+        <headerColor>#85D10B</headerColor>
+        <logo>Screenshot_from_20210721_123657</logo>
+        <logoVersion>1</logoVersion>
+        <shouldOverrideOrgTheme>true</shouldOverrideOrgTheme>
+    </brand>
+    <description>CycloneSolutions app Enpal Challenge</description>
+    <formFactors>Small</formFactors>
+    <formFactors>Large</formFactors>
+    <isNavAutoTempTabsDisabled>false</isNavAutoTempTabsDisabled>
+    <isNavPersonalizationDisabled>false</isNavPersonalizationDisabled>
+    <label>Cyclone Solutions</label>
+    <navType>Standard</navType>
+    <tabs>Widgets</tabs>
+    <uiType>Lightning</uiType>
+    <utilityBar>Cyclone_Solutions_UtilityBar</utilityBar>
+</CustomApplication>
